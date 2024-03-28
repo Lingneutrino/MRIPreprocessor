@@ -10,7 +10,7 @@ requirements = [
     'antspyx',
     'nibabel',
     'scipy',
-    'SimpleITK<2',
+    'SimpleITK<2 @ git+https://github.com/InsightSoftwareConsortium/ITK.git',
     'HD-BET @ git+https://github.com/ReubenDo/HD-BET#egg=HD-BET',
 ]
 
